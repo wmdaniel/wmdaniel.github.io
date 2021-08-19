@@ -44,6 +44,15 @@ __Reference 1__ shows all of the registered users and their respective permissio
 
 Next, logging into the mysql database `mysql -u mmuser -D mattermost -p` and passing it the password above, the attacker is able to dump all hashed passwords for the Mattermost database (__Reference 3__). With this information and the note left by the `root` user in the **Mattermost** GUI, we can attack the hash with hashcat to find the password with a wordlist build around `PleaseSubscribe!`. This results in the `root:PleaseSubscribe!21` password.
 
+### Suggested Resolution 
+
+- Remove the usernames and passwords listed in the Mattermost GUI
+- Do not auto-generate a local-domain email when creating a help ticket as a guest
+- Require ssh-key login to the server
+- Remove the plain-text username and password from the config.json file.
+- Restrict hashed password access from the mmuser mysql account.
+
+
 #### Reference 1
 ```
 maildeliverer@Delivery:/etc$ cat /etc/passwd
@@ -161,11 +170,3 @@ SELECT Username, Password FROM Users;
 ```
 hashcat -m 3200 -r 0 passwd wordlist
 ```
-
-### Suggested Resolution 
-
-- Remove the usernames and passwords listed in the Mattermost GUI
-- Do not auto-generate a local-domain email when creating a help ticket as a guest
-- Require ssh-key login to the server
-- Remove the plain-text username and password from the config.json file.
-- Restrict hashed password access from the mmuser mysql account.
