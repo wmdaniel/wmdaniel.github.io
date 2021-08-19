@@ -6,7 +6,7 @@
 ## Technology Experience
 
 ### Telecommunications
-Telephonics switch programming and troubleshooting (5E, DCO, DMS100, DMS1500, EWSD, DMS10, GTD5)
+- Telephonics switch programming and troubleshooting (5E, DCO, DMS100, DMS1500, EWSD, DMS10, GTD5)
 
 ### Database design and implementaion
 - Designed and implemented traditional RDB systems (Postgres, MySQL, MariaDB)
