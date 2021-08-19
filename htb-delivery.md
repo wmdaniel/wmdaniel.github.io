@@ -53,6 +53,8 @@ Next, logging into the mysql database `mysql -u mmuser -D mattermost -p` and pas
 - Restrict hashed password access from the mmuser mysql account.
 
 
+### References
+
 #### Reference 1
 ```
 maildeliverer@Delivery:/etc$ cat /etc/passwd
