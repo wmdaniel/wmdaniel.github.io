@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Welcome to my Digital Portfolio
+### Here, I hope to post information about projects and experiences I have.
+### I will also be including accomplishments and writing samples.
 
-You can use the [editor on GitHub](https://github.com/wmdaniel/wmdaniel.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technology Experience
 
-### Markdown
+### Telecommunications
+Telephonics switch programming and troubleshooting (5E, DCO, DMS100, DMS1500, EWSD, DMS10, GTD5)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Database design and implementaion
+- Designed and implemented traditional RDB systems (Postgres, MySQL, MariaDB)
+- Designed and implemented RDB data warehousing (XML, DTD, XSD file familiarity)
+- Designed and implemented NoSQL databases (Neo4j, MongoDB, Hadoop in AWS S3)
 
-```markdown
-Syntax highlighted code block
+### Programming
+- Python Scripting language (see labs and programs)
+- MARIE entry-level assembly
+- bash
 
-# Header 1
-## Header 2
-### Header 3
+### Windows Systems
+- Active Directory Experience
+- Powershell and cmd Experience
 
-- Bulleted
-- List
+### Linux Experience
+- CentOS, Debian, Kali, ParrotOS, Ubuntu, etc.
 
-1. Numbered
-2. List
+### Home Lab
+- Homelab across 3 different devices
+- GNS3, VirtualBox, VMware ESXi hypervisor experience
+- Automated scripts on both hypervisor and VM's
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<hr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Degrees and Certifications
+### Master's in Information Technology
+**Virginia Tech, Spring 2022**
+- Cybersecurity Policy
+- Cybersecurity Technologies
+- Information Systems Design (not conferred) 
 
-### Jekyll Themes
+<hr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmdaniel/wmdaniel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Extracurricular
+[Hack the Box](https://app.hackthebox.eu/profile/492460)
+[Try Hack Me](https://tryhackme.com/p/praxaeus)
+<! --- [National Cyber League](static link)
+[Middle TN CTF](static link) --- >
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Writing
+[foo](static link)
+[bar](static link)
+[sys](static link)
+[vuln](static link)
+[cyber](static link)
