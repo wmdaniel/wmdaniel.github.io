@@ -49,4 +49,4 @@
 [Try Hack Me](https://tryhackme.com/p/praxaeus)
 
 ## Writing
-[Hack the Box - Delivery](wmdaniel.github.io/htb-delivery)
+[Hack the Box - Delivery](https://wmdaniel.github.io/htb-delivery)
