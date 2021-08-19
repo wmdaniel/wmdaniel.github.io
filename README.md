@@ -2,6 +2,7 @@
 ### Here, I hope to post information about projects and experiences I have.
 ### I will also be including accomplishments and writing samples.
 
+<hr/>
 
 ## Technology Experience
 
@@ -31,7 +32,7 @@
 - Automated scripts on both hypervisor and VM's
 
 
-<hr>
+<hr/>
 
 ## Degrees and Certifications
 ### Master's in Information Technology
@@ -40,7 +41,7 @@
 - Cybersecurity Technologies
 - Information Systems Design (not conferred) 
 
-<hr>
+<hr/>
 
 ## Extracurricular
 [Hack the Box](https://app.hackthebox.eu/profile/492460)
