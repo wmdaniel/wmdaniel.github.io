@@ -1,6 +1,5 @@
 # Welcome to my Digital Portfolio
-### Here, I hope to post information about projects and experiences I have.
-### I will also be including accomplishments and writing samples.
+### Here, I hope to post information about projects and experiences I have and include samples of writing.
 
 <hr/>
 
