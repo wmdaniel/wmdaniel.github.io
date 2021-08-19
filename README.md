@@ -48,13 +48,5 @@
 <br/>
 [Try Hack Me](https://tryhackme.com/p/praxaeus)
 
-## Writing (placeholder)
-[foo](static link)
-<br/>
-[bar](static link)
-<br/>
-[sys](static link)
-<br/>
-[vuln](static link)
-<br/>
-[cyber](static link)
+## Writing
+[Hack the Box - Delivery](wmdaniel.github.io/blob/main/htb-delivery)
