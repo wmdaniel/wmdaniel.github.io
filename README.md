@@ -46,8 +46,6 @@
 ## Extracurricular
 [Hack the Box](https://app.hackthebox.eu/profile/492460)
 [Try Hack Me](https://tryhackme.com/p/praxaeus)
-<! --- [National Cyber League](static link)
-[Middle TN CTF](static link) --- >
 
 ## Writing
 [foo](static link)
