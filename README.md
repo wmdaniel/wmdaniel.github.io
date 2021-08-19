@@ -45,16 +45,16 @@
 
 ## Extracurricular
 [Hack the Box](https://app.hackthebox.eu/profile/492460)
-
+<br/>
 [Try Hack Me](https://tryhackme.com/p/praxaeus)
 
 ## Writing (placeholder)
 [foo](static link)
-
+<br/>
 [bar](static link)
-
+<br/>
 [sys](static link)
-
+<br/>
 [vuln](static link)
-
+<br/>
 [cyber](static link)
