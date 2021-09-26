@@ -2,11 +2,6 @@
 title: Delivery HTB Write up
 ---
 
-hello
-=====
-
-**You are here!**
-
 # Delivery HTB Write up
 # 2021
 
